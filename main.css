@@ -37,11 +37,6 @@ label {
     border-radius: 10px;
     outline: none;
 }
-.error-message{
-    color: red;
-    display: none;
-}
-
 button {
   width: 100%;
   padding: 12px;
