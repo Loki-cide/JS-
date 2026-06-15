@@ -3,7 +3,6 @@ body{
     min-height: 100vh;
     background: #f4f7fc;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
 h1{
     text-align: center;
@@ -38,6 +37,11 @@ label {
     border-radius: 10px;
     outline: none;
 }
+.error-message{
+    color: red;
+    display: none;
+}
+
 button {
   width: 100%;
   padding: 12px;
